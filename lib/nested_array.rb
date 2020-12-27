@@ -38,6 +38,9 @@ def matrix_lookup(matrix, row, column)
     [assembled_matrix],
     [sorted_matrix]
     ]
+  count = 0
+
+  while 
 end
 
 def matrix_update(matrix, row, column, new_value)
